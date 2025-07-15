@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-void main(){
+ main(){
 
 int hz = 867;
 int sec = 1;
